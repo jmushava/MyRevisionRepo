@@ -12,3 +12,5 @@ print ("I live in NJ")
 ```python
 print ("I was born in Zimbabwe")
 ```
+
+Today is Monday October 18, 2021
